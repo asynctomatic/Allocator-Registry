@@ -13,6 +13,19 @@
     "height": 4269632
   },
   {
+    "id": 75213549,
+    "clientId": 1982040,
+    "providerId": 3084393,
+    "pieceCid": {
+      "/": "baga6ea4seaqdmw6l6nkzo4e7m4bcvusveh2terplvork2kco345xy3fk5yuzyiq"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1512000,
+    "termMax": 1771200,
+    "expiration": 4280996,
+    "height": 4269632
+  },
+  {
     "id": 76924825,
     "clientId": 3079189,
     "providerId": 3084393,
@@ -76,5 +89,18 @@
     "termMax": 1771200,
     "expiration": 4327076,
     "height": 4315723
+  },
+  {
+    "id": 76957270,
+    "clientId": 3079189,
+    "providerId": 3084393,
+    "pieceCid": {
+      "/": "baga6ea4seaqpytfqojz4fzwszxzipj5uzdu5m3uho4eytruoebqpobe6k4sa6da"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4323773,
+    "height": 4315863
   }
 ]
